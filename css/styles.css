@@ -10,3 +10,11 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+#fade{
+  display:none;
+}
+
+#slide{
+  display: none;
+}
