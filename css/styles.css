@@ -18,3 +18,13 @@
 #slide{
   display: none;
 }
+
+.light-background {
+  background-color: tan;
+  color: black;
+}
+
+.dark-background {
+  background-color: black;
+  color: tan;
+}
